@@ -1,2 +1,1 @@
-# expense-tracker
-React expense tracker
+Simple app for tracking monthly expense items
